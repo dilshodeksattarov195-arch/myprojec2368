@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsalidate",
+        "uuid": 16362880,
+        "checksum": "vnwxf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
